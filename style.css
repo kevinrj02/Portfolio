@@ -1,26 +1,26 @@
 /*  GENERAL  */
 
-*{
+* {
     margin: 0;
-    padding: 0;
+    padding: 10;
 }
 
-body{
+body {
    font-family: 'Times New Roman', Times, serif;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
-p{
+p {
     color: rgb(85, 85, 85);
 }
 
 /* TRANSITION */
 
 a,
-.btn{
+.btn {
     transition: all 300ms ease;
 }
 
