@@ -382,6 +382,38 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+/* SKILLS SECTION */
+
+#skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: auto;
+  padding: 2rem;
+}
+
+.skills-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.skills-container ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.skills-container li {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.skills-container strong {
+  font-weight: 600;
+}
+
 /* CONTACT */
 
 #contact {
